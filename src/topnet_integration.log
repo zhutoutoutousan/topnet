@@ -78,3 +78,8 @@
 2025-07-29 12:38:53,454 [topnet.trainer] INFO: Epoch 2: Val Loss = 6.9111, Topic Coherence = 2.9956
 2025-07-29 12:38:53,816 [topnet.trainer] INFO: Model saved to checkpoints/best_model.pt
 2025-07-29 13:23:26,158 [topnet.trainer] INFO: Epoch 3: Train Loss = 5.4245
+2025-07-29 14:06:49,974 [topnet.trainer] INFO: Epoch 4: Train Loss = 4.4805
+2025-07-29 14:19:21,743 [topnet.trainer] INFO: Epoch 4: Val Loss = 4.4661, Topic Coherence = 2.9956
+2025-07-29 14:19:22,073 [topnet.trainer] INFO: Model saved to checkpoints/best_model.pt
+2025-07-29 14:33:27,943 [experiments.integrated_experiment] INFO: Running integrated TopicNet-TopNet experiment...
+2025-07-29 14:33:31,387 [absl] INFO: Using default tokenizer.
