@@ -1,0 +1,38 @@
+# Web Crawling
+scrapy==2.11.0
+beautifulsoup4==4.12.3
+
+# Data Processing
+numpy==1.26.3
+pandas==2.1.4
+nltk==3.8.1
+spacy==3.7.2
+
+# Embeddings
+huggingface-hub==0.16.4
+sentence-transformers==2.2.2
+openai==1.12.0
+
+# Clustering and Dimensionality Reduction
+scikit-learn==1.3.2
+umap-learn==0.5.5
+hdbscan==0.8.33
+
+# Visualization
+plotly==5.18.0
+dash==2.14.2
+wordcloud==1.9.3
+
+# Development
+python-dotenv==1.0.0
+black==23.12.1
+pytest==7.4.4
+
+# TopNet Integration Dependencies
+torch>=2.0.0
+transformers>=4.21.0
+wandb>=0.15.0
+rouge-score>=0.1.2
+matplotlib>=3.5.0
+seaborn>=0.11.0
+tqdm>=4.64.0 
